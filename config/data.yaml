@@ -1,0 +1,11 @@
+path: /home/yjy/posken_YOLOv10n/data
+train: images/train
+val: images/val
+nc: 6
+names:
+- billete
+- knife
+- monedero
+- pistol
+- smartphone
+- tarjeta
